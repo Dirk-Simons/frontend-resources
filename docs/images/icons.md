@@ -11,3 +11,4 @@ Resources for Icons gallery
 - [Simpleicons](https://simpleicons.org/)
 - [Devicons](https://devicon.dev/)
 - [SimpleIcons](https://simpleicons.org/)
+- [The Noun Project](https://thenounproject.com/)
